@@ -24,6 +24,7 @@
     {
       "name": "nginx",
       "image": "grant05/multi-nginx",
+      "hostname": "nginx",
       "essential": true,
       "portMappings": [
         {
